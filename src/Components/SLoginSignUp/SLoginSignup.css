@@ -71,6 +71,10 @@
   margin-top: 0.5em;
 }
 
+.link b {
+  cursor: pointer;
+}
+
 @media (max-width: 768px) {
   .login-box {
     padding: 30px;
